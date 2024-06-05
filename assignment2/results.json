@@ -1,0 +1,688 @@
+{
+    "tests": [
+        {
+            "name": "test_eas503_ex27_1 (test_assignment.TestAssignment.test_eas503_ex27_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.1"
+        },
+        {
+            "name": "test_eas503_ex27_2 (test_assignment.TestAssignment.test_eas503_ex27_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.2"
+        },
+        {
+            "name": "test_eas503_ex27_3 (test_assignment.TestAssignment.test_eas503_ex27_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.3"
+        },
+        {
+            "name": "test_eas503_ex27_4 (test_assignment.TestAssignment.test_eas503_ex27_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.4"
+        },
+        {
+            "name": "test_eas503_ex27_5 (test_assignment.TestAssignment.test_eas503_ex27_5)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.5"
+        },
+        {
+            "name": "test_eas503_ex27_6 (test_assignment.TestAssignment.test_eas503_ex27_6)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.6"
+        },
+        {
+            "name": "test_eas503_ex27_7 (test_assignment.TestAssignment.test_eas503_ex27_7)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.7"
+        },
+        {
+            "name": "test_eas503_ex27_8 (test_assignment.TestAssignment.test_eas503_ex27_8)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_27.8"
+        },
+        {
+            "name": "test_eas503_ex28_1 (test_assignment.TestAssignment.test_eas503_ex28_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_28.1"
+        },
+        {
+            "name": "test_eas503_ex28_2 (test_assignment.TestAssignment.test_eas503_ex28_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_28.2"
+        },
+        {
+            "name": "test_eas503_ex28_3 (test_assignment.TestAssignment.test_eas503_ex28_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_28.3"
+        },
+        {
+            "name": "test_eas503_ex28_4 (test_assignment.TestAssignment.test_eas503_ex28_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_28.4"
+        },
+        {
+            "name": "test_eas503_ex29_1 (test_assignment.TestAssignment.test_eas503_ex29_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_29.1"
+        },
+        {
+            "name": "test_eas503_ex29_2 (test_assignment.TestAssignment.test_eas503_ex29_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_29.2"
+        },
+        {
+            "name": "test_eas503_ex29_3 (test_assignment.TestAssignment.test_eas503_ex29_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_29.3"
+        },
+        {
+            "name": "test_eas503_ex29_4 (test_assignment.TestAssignment.test_eas503_ex29_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_29.4"
+        },
+        {
+            "name": "test_eas503_ex30_1 (test_assignment.TestAssignment.test_eas503_ex30_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_30.1"
+        },
+        {
+            "name": "test_eas503_ex30_2 (test_assignment.TestAssignment.test_eas503_ex30_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_30.2"
+        },
+        {
+            "name": "test_eas503_ex30_3 (test_assignment.TestAssignment.test_eas503_ex30_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_30.3"
+        },
+        {
+            "name": "test_eas503_ex30_4 (test_assignment.TestAssignment.test_eas503_ex30_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_30.4"
+        },
+        {
+            "name": "test_eas503_ex31_01 (test_assignment.TestAssignment.test_eas503_ex31_01)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.01"
+        },
+        {
+            "name": "test_eas503_ex31_02 (test_assignment.TestAssignment.test_eas503_ex31_02)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.02"
+        },
+        {
+            "name": "test_eas503_ex31_03 (test_assignment.TestAssignment.test_eas503_ex31_03)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.03"
+        },
+        {
+            "name": "test_eas503_ex31_04 (test_assignment.TestAssignment.test_eas503_ex31_04)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.04"
+        },
+        {
+            "name": "test_eas503_ex31_05 (test_assignment.TestAssignment.test_eas503_ex31_05)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.05"
+        },
+        {
+            "name": "test_eas503_ex31_06 (test_assignment.TestAssignment.test_eas503_ex31_06)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.06"
+        },
+        {
+            "name": "test_eas503_ex31_07 (test_assignment.TestAssignment.test_eas503_ex31_07)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.07"
+        },
+        {
+            "name": "test_eas503_ex31_08 (test_assignment.TestAssignment.test_eas503_ex31_08)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.08"
+        },
+        {
+            "name": "test_eas503_ex31_09 (test_assignment.TestAssignment.test_eas503_ex31_09)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.09"
+        },
+        {
+            "name": "test_eas503_ex31_10 (test_assignment.TestAssignment.test_eas503_ex31_10)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.10"
+        },
+        {
+            "name": "test_eas503_ex31_11 (test_assignment.TestAssignment.test_eas503_ex31_11)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_31.11"
+        },
+        {
+            "name": "test_eas503_ex32_1 (test_assignment.TestAssignment.test_eas503_ex32_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_32.1"
+        },
+        {
+            "name": "test_eas503_ex32_2 (test_assignment.TestAssignment.test_eas503_ex32_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_32.2"
+        },
+        {
+            "name": "test_eas503_ex32_3 (test_assignment.TestAssignment.test_eas503_ex32_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_32.3"
+        },
+        {
+            "name": "test_eas503_ex32_4 (test_assignment.TestAssignment.test_eas503_ex32_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_32.4"
+        },
+        {
+            "name": "test_eas503_ex32_5 (test_assignment.TestAssignment.test_eas503_ex32_5)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_32.5"
+        },
+        {
+            "name": "test_eas503_ex32_6 (test_assignment.TestAssignment.test_eas503_ex32_6)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_32.6"
+        },
+        {
+            "name": "test_eas503_ex33_01 (test_assignment.TestAssignment.test_eas503_ex33_01)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.01"
+        },
+        {
+            "name": "test_eas503_ex33_02 (test_assignment.TestAssignment.test_eas503_ex33_02)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.02"
+        },
+        {
+            "name": "test_eas503_ex33_03 (test_assignment.TestAssignment.test_eas503_ex33_03)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.03"
+        },
+        {
+            "name": "test_eas503_ex33_04 (test_assignment.TestAssignment.test_eas503_ex33_04)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.04"
+        },
+        {
+            "name": "test_eas503_ex33_05 (test_assignment.TestAssignment.test_eas503_ex33_05)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.05"
+        },
+        {
+            "name": "test_eas503_ex33_06 (test_assignment.TestAssignment.test_eas503_ex33_06)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.06"
+        },
+        {
+            "name": "test_eas503_ex33_07 (test_assignment.TestAssignment.test_eas503_ex33_07)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.07"
+        },
+        {
+            "name": "test_eas503_ex33_08 (test_assignment.TestAssignment.test_eas503_ex33_08)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.08"
+        },
+        {
+            "name": "test_eas503_ex33_09 (test_assignment.TestAssignment.test_eas503_ex33_09)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.09"
+        },
+        {
+            "name": "test_eas503_ex33_10 (test_assignment.TestAssignment.test_eas503_ex33_10)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_33.10"
+        },
+        {
+            "name": "test_eas503_ex34_1 (test_assignment.TestAssignment.test_eas503_ex34_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_34.1"
+        },
+        {
+            "name": "test_eas503_ex34_2 (test_assignment.TestAssignment.test_eas503_ex34_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_34.2"
+        },
+        {
+            "name": "test_eas503_ex35_1 (test_assignment.TestAssignment.test_eas503_ex35_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_35.1"
+        },
+        {
+            "name": "test_eas503_ex36_1 (test_assignment.TestAssignment.test_eas503_ex36_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_36.1"
+        },
+        {
+            "name": "test_eas503_ex36_2 (test_assignment.TestAssignment.test_eas503_ex36_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_36.2"
+        },
+        {
+            "name": "test_eas503_ex37_1 (test_assignment.TestAssignment.test_eas503_ex37_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_37.1"
+        },
+        {
+            "name": "test_eas503_ex37_2 (test_assignment.TestAssignment.test_eas503_ex37_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_37.2"
+        },
+        {
+            "name": "test_eas503_ex37_3 (test_assignment.TestAssignment.test_eas503_ex37_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_37.3"
+        },
+        {
+            "name": "test_eas503_ex37_4 (test_assignment.TestAssignment.test_eas503_ex37_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_37.4"
+        },
+        {
+            "name": "test_eas503_ex38_1 (test_assignment.TestAssignment.test_eas503_ex38_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_38.1"
+        },
+        {
+            "name": "test_eas503_ex38_2 (test_assignment.TestAssignment.test_eas503_ex38_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_38.2"
+        },
+        {
+            "name": "test_eas503_ex38_3 (test_assignment.TestAssignment.test_eas503_ex38_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_38.3"
+        },
+        {
+            "name": "test_eas503_ex38_4 (test_assignment.TestAssignment.test_eas503_ex38_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_38.4"
+        },
+        {
+            "name": "test_eas503_ex39_1 (test_assignment.TestAssignment.test_eas503_ex39_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_39.1"
+        },
+        {
+            "name": "test_eas503_ex39_2 (test_assignment.TestAssignment.test_eas503_ex39_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_39.2"
+        },
+        {
+            "name": "test_eas503_ex40_1 (test_assignment.TestAssignment.test_eas503_ex40_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_40.1"
+        },
+        {
+            "name": "test_eas503_ex40_2 (test_assignment.TestAssignment.test_eas503_ex40_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_40.2"
+        },
+        {
+            "name": "test_eas503_ex40_3 (test_assignment.TestAssignment.test_eas503_ex40_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_40.3"
+        },
+        {
+            "name": "test_eas503_ex40_4 (test_assignment.TestAssignment.test_eas503_ex40_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_40.4"
+        },
+        {
+            "name": "test_eas503_ex41_1 (test_assignment.TestAssignment.test_eas503_ex41_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_41.1"
+        },
+        {
+            "name": "test_eas503_ex42_1 (test_assignment.TestAssignment.test_eas503_ex42_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_42.1"
+        },
+        {
+            "name": "test_eas503_ex42_2 (test_assignment.TestAssignment.test_eas503_ex42_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_42.2"
+        },
+        {
+            "name": "test_eas503_ex43_1 (test_assignment.TestAssignment.test_eas503_ex43_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_43.1"
+        },
+        {
+            "name": "test_eas503_ex43_2 (test_assignment.TestAssignment.test_eas503_ex43_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_43.2"
+        },
+        {
+            "name": "test_eas503_ex44_1 (test_assignment.TestAssignment.test_eas503_ex44_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_44.1"
+        },
+        {
+            "name": "test_eas503_ex44_2 (test_assignment.TestAssignment.test_eas503_ex44_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_44.2"
+        },
+        {
+            "name": "test_eas503_ex45_1 (test_assignment.TestAssignment.test_eas503_ex45_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_45.1"
+        },
+        {
+            "name": "test_eas503_ex45_2 (test_assignment.TestAssignment.test_eas503_ex45_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_45.2"
+        },
+        {
+            "name": "test_eas503_ex45_3 (test_assignment.TestAssignment.test_eas503_ex45_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_45.3"
+        },
+        {
+            "name": "test_eas503_ex45_4 (test_assignment.TestAssignment.test_eas503_ex45_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_45.4"
+        },
+        {
+            "name": "test_eas503_ex46_1 (test_assignment.TestAssignment.test_eas503_ex46_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_46.1"
+        },
+        {
+            "name": "test_eas503_ex46_2 (test_assignment.TestAssignment.test_eas503_ex46_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_46.2"
+        },
+        {
+            "name": "test_eas503_ex47_1 (test_assignment.TestAssignment.test_eas503_ex47_1)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_47.1"
+        },
+        {
+            "name": "test_eas503_ex47_2 (test_assignment.TestAssignment.test_eas503_ex47_2)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_47.2"
+        },
+        {
+            "name": "test_eas503_ex47_3 (test_assignment.TestAssignment.test_eas503_ex47_3)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_47.3"
+        },
+        {
+            "name": "test_eas503_ex48_1 (test_assignment.TestAssignment.test_eas503_ex48_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_48.1"
+        },
+        {
+            "name": "test_eas503_ex48_2 (test_assignment.TestAssignment.test_eas503_ex48_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_48.2"
+        },
+        {
+            "name": "test_eas503_ex48_3 (test_assignment.TestAssignment.test_eas503_ex48_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "eas503_48.3"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.12",
+    "score": 256
+}
