@@ -1,0 +1,89 @@
+{
+    "tests": [
+        {
+            "name": "test_ex1 (test_assignment.Testassignment.test_ex1)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "ex1"
+        },
+        {
+            "name": "test_ex2 (test_assignment.Testassignment.test_ex2)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "ex2"
+        },
+        {
+            "name": "test_ex3 (test_assignment.Testassignment.test_ex3)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "ex3"
+        },
+        {
+            "name": "test_ex4 (test_assignment.Testassignment.test_ex4)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "ex4"
+        },
+        {
+            "name": "test_step1 (test_assignment.Testassignment.test_step1)",
+            "score": 6,
+            "max_score": 6,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step1"
+        },
+        {
+            "name": "test_step2 (test_assignment.Testassignment.test_step2)",
+            "score": 6,
+            "max_score": 6,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step2"
+        },
+        {
+            "name": "test_step3 (test_assignment.Testassignment.test_step3)",
+            "score": 6,
+            "max_score": 6,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step3"
+        },
+        {
+            "name": "test_step4 (test_assignment.Testassignment.test_step4)",
+            "score": 6,
+            "max_score": 6,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step4"
+        },
+        {
+            "name": "test_step5 (test_assignment.Testassignment.test_step5)",
+            "score": 6,
+            "max_score": 6,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "step5"
+        },
+        {
+            "name": "test_step6 (test_assignment.Testassignment.test_step6)",
+            "score": 6,
+            "max_score": 6,
+            "status": "passed",
+            "output": "\nC:\\Users\\Bahalul Khan Pathan\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\sklearn\\linear_model\\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):\nSTOP: TOTAL NO. of ITERATIONS REACHED LIMIT.\n\nIncrease the number of iterations (max_iter) or scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression\n  n_iter_i = _check_optimize_result(\n",
+            "visibility": "visible",
+            "number": "step6"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "3.11",
+    "score": 76
+}
