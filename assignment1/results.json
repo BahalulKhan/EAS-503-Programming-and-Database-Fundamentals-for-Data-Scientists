@@ -1,0 +1,712 @@
+{
+    "tests": [
+        {
+            "name": "test_ex01_1 (test_assignment1.TestAssignment1.test_ex01_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "01.1"
+        },
+        {
+            "name": "test_ex01_2 (test_assignment1.TestAssignment1.test_ex01_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "01.2"
+        },
+        {
+            "name": "test_ex01_3 (test_assignment1.TestAssignment1.test_ex01_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "01.3"
+        },
+        {
+            "name": "test_ex02_1 (test_assignment1.TestAssignment1.test_ex02_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "02.1"
+        },
+        {
+            "name": "test_ex02_2 (test_assignment1.TestAssignment1.test_ex02_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "02.2"
+        },
+        {
+            "name": "test_ex03_1 (test_assignment1.TestAssignment1.test_ex03_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "03.1"
+        },
+        {
+            "name": "test_ex03_2 (test_assignment1.TestAssignment1.test_ex03_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "03.2"
+        },
+        {
+            "name": "test_ex04_1 (test_assignment1.TestAssignment1.test_ex04_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "04.1"
+        },
+        {
+            "name": "test_ex04_2 (test_assignment1.TestAssignment1.test_ex04_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "04.2"
+        },
+        {
+            "name": "test_ex04_3 (test_assignment1.TestAssignment1.test_ex04_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "04.3"
+        },
+        {
+            "name": "test_ex04_4 (test_assignment1.TestAssignment1.test_ex04_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "04.4"
+        },
+        {
+            "name": "test_ex05_1 (test_assignment1.TestAssignment1.test_ex05_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "05.1"
+        },
+        {
+            "name": "test_ex05_2 (test_assignment1.TestAssignment1.test_ex05_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "05.2"
+        },
+        {
+            "name": "test_ex05_3 (test_assignment1.TestAssignment1.test_ex05_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "05.3"
+        },
+        {
+            "name": "test_ex05_4 (test_assignment1.TestAssignment1.test_ex05_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "05.4"
+        },
+        {
+            "name": "test_ex06_1 (test_assignment1.TestAssignment1.test_ex06_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "06.1"
+        },
+        {
+            "name": "test_ex06_2 (test_assignment1.TestAssignment1.test_ex06_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "06.2"
+        },
+        {
+            "name": "test_ex07_1 (test_assignment1.TestAssignment1.test_ex07_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "07.1"
+        },
+        {
+            "name": "test_ex07_2 (test_assignment1.TestAssignment1.test_ex07_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "07.2"
+        },
+        {
+            "name": "test_ex08_1 (test_assignment1.TestAssignment1.test_ex08_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "08.1"
+        },
+        {
+            "name": "test_ex08_2 (test_assignment1.TestAssignment1.test_ex08_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "08.2"
+        },
+        {
+            "name": "test_ex09_1 (test_assignment1.TestAssignment1.test_ex09_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "09.1"
+        },
+        {
+            "name": "test_ex09_2 (test_assignment1.TestAssignment1.test_ex09_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "09.2"
+        },
+        {
+            "name": "test_ex10_1 (test_assignment1.TestAssignment1.test_ex10_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "10.1"
+        },
+        {
+            "name": "test_ex10_2 (test_assignment1.TestAssignment1.test_ex10_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "10.2"
+        },
+        {
+            "name": "test_ex11_1 (test_assignment1.TestAssignment1.test_ex11_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "11.1"
+        },
+        {
+            "name": "test_ex11_2 (test_assignment1.TestAssignment1.test_ex11_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "11.2"
+        },
+        {
+            "name": "test_ex11_3 (test_assignment1.TestAssignment1.test_ex11_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "11.3"
+        },
+        {
+            "name": "test_ex12_1 (test_assignment1.TestAssignment1.test_ex12_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "12.1"
+        },
+        {
+            "name": "test_ex12_2 (test_assignment1.TestAssignment1.test_ex12_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "12.2"
+        },
+        {
+            "name": "test_ex13_1 (test_assignment1.TestAssignment1.test_ex13_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "13.1"
+        },
+        {
+            "name": "test_ex13_2 (test_assignment1.TestAssignment1.test_ex13_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "13.2"
+        },
+        {
+            "name": "test_ex14_1 (test_assignment1.TestAssignment1.test_ex14_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "14.1"
+        },
+        {
+            "name": "test_ex14_2 (test_assignment1.TestAssignment1.test_ex14_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "14.2"
+        },
+        {
+            "name": "test_ex15_1 (test_assignment1.TestAssignment1.test_ex15_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "15.1"
+        },
+        {
+            "name": "test_ex15_2 (test_assignment1.TestAssignment1.test_ex15_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "15.2"
+        },
+        {
+            "name": "test_ex16_1 (test_assignment1.TestAssignment1.test_ex16_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "16.1"
+        },
+        {
+            "name": "test_ex16_2 (test_assignment1.TestAssignment1.test_ex16_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "16.2"
+        },
+        {
+            "name": "test_ex17_1 (test_assignment1.TestAssignment1.test_ex17_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "17.1"
+        },
+        {
+            "name": "test_ex17_2 (test_assignment1.TestAssignment1.test_ex17_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "17.2"
+        },
+        {
+            "name": "test_ex18_1 (test_assignment1.TestAssignment1.test_ex18_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "18.1"
+        },
+        {
+            "name": "test_ex18_2 (test_assignment1.TestAssignment1.test_ex18_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "18.2"
+        },
+        {
+            "name": "test_ex19_1 (test_assignment1.TestAssignment1.test_ex19_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "19.1"
+        },
+        {
+            "name": "test_ex19_2 (test_assignment1.TestAssignment1.test_ex19_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "19.2"
+        },
+        {
+            "name": "test_ex20_1 (test_assignment1.TestAssignment1.test_ex20_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "20.1"
+        },
+        {
+            "name": "test_ex20_2 (test_assignment1.TestAssignment1.test_ex20_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "20.2"
+        },
+        {
+            "name": "test_ex21_1 (test_assignment1.TestAssignment1.test_ex21_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "21.1"
+        },
+        {
+            "name": "test_ex21_2 (test_assignment1.TestAssignment1.test_ex21_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "21.2"
+        },
+        {
+            "name": "test_ex21_3 (test_assignment1.TestAssignment1.test_ex21_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "21.3"
+        },
+        {
+            "name": "test_ex21_4 (test_assignment1.TestAssignment1.test_ex21_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "21.4"
+        },
+        {
+            "name": "test_ex22_1 (test_assignment1.TestAssignment1.test_ex22_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "22.1"
+        },
+        {
+            "name": "test_ex22_2 (test_assignment1.TestAssignment1.test_ex22_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "22.2"
+        },
+        {
+            "name": "test_ex22_3 (test_assignment1.TestAssignment1.test_ex22_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "22.3"
+        },
+        {
+            "name": "test_ex22_4 (test_assignment1.TestAssignment1.test_ex22_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "22.4"
+        },
+        {
+            "name": "test_ex22_5 (test_assignment1.TestAssignment1.test_ex22_5)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "22.5"
+        },
+        {
+            "name": "test_ex22_6 (test_assignment1.TestAssignment1.test_ex22_6)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "22.6"
+        },
+        {
+            "name": "test_ex23_1 (test_assignment1.TestAssignment1.test_ex23_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.1"
+        },
+        {
+            "name": "test_ex23_10 (test_assignment1.TestAssignment1.test_ex23_10)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.10"
+        },
+        {
+            "name": "test_ex23_11 (test_assignment1.TestAssignment1.test_ex23_11)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.11"
+        },
+        {
+            "name": "test_ex23_12 (test_assignment1.TestAssignment1.test_ex23_12)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.12"
+        },
+        {
+            "name": "test_ex23_2 (test_assignment1.TestAssignment1.test_ex23_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.2"
+        },
+        {
+            "name": "test_ex23_3 (test_assignment1.TestAssignment1.test_ex23_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.3"
+        },
+        {
+            "name": "test_ex23_4 (test_assignment1.TestAssignment1.test_ex23_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.4"
+        },
+        {
+            "name": "test_ex23_5 (test_assignment1.TestAssignment1.test_ex23_5)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.5"
+        },
+        {
+            "name": "test_ex23_6 (test_assignment1.TestAssignment1.test_ex23_6)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.6"
+        },
+        {
+            "name": "test_ex23_7 (test_assignment1.TestAssignment1.test_ex23_7)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.7"
+        },
+        {
+            "name": "test_ex23_8 (test_assignment1.TestAssignment1.test_ex23_8)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.8"
+        },
+        {
+            "name": "test_ex23_9 (test_assignment1.TestAssignment1.test_ex23_9)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "23.9"
+        },
+        {
+            "name": "test_ex24_1 (test_assignment1.TestAssignment1.test_ex24_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.1"
+        },
+        {
+            "name": "test_ex24_2 (test_assignment1.TestAssignment1.test_ex24_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.2"
+        },
+        {
+            "name": "test_ex24_3 (test_assignment1.TestAssignment1.test_ex24_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.3"
+        },
+        {
+            "name": "test_ex24_4 (test_assignment1.TestAssignment1.test_ex24_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.4"
+        },
+        {
+            "name": "test_ex24_5 (test_assignment1.TestAssignment1.test_ex24_5)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.5"
+        },
+        {
+            "name": "test_ex24_6 (test_assignment1.TestAssignment1.test_ex24_6)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.6"
+        },
+        {
+            "name": "test_ex24_7 (test_assignment1.TestAssignment1.test_ex24_7)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.7"
+        },
+        {
+            "name": "test_ex24_8 (test_assignment1.TestAssignment1.test_ex24_8)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "24.8"
+        },
+        {
+            "name": "test_ex25_1 (test_assignment1.TestAssignment1.test_ex25_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "25.1"
+        },
+        {
+            "name": "test_ex25_2 (test_assignment1.TestAssignment1.test_ex25_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "25.2"
+        },
+        {
+            "name": "test_ex25_3 (test_assignment1.TestAssignment1.test_ex25_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "25.3"
+        },
+        {
+            "name": "test_ex25_4 (test_assignment1.TestAssignment1.test_ex25_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "25.4"
+        },
+        {
+            "name": "test_ex25_5 (test_assignment1.TestAssignment1.test_ex25_5)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "25.5"
+        },
+        {
+            "name": "test_ex25_6 (test_assignment1.TestAssignment1.test_ex25_6)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "25.6"
+        },
+        {
+            "name": "test_ex26_1 (test_assignment1.TestAssignment1.test_ex26_1)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "26.1"
+        },
+        {
+            "name": "test_ex26_2 (test_assignment1.TestAssignment1.test_ex26_2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "26.2"
+        },
+        {
+            "name": "test_ex26_3 (test_assignment1.TestAssignment1.test_ex26_3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "26.3"
+        },
+        {
+            "name": "test_ex26_4 (test_assignment1.TestAssignment1.test_ex26_4)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "26.4"
+        },
+        {
+            "name": "test_ex26_5 (test_assignment1.TestAssignment1.test_ex26_5)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "26.5"
+        },
+        {
+            "name": "test_ex26_6 (test_assignment1.TestAssignment1.test_ex26_6)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed",
+            "visibility": "visible",
+            "number": "26.6"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.00",
+    "score": 264
+}
